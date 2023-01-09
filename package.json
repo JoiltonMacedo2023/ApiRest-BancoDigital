@@ -1,0 +1,26 @@
+{
+  "name": "apirest-bancodigital",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido com node.js, ApiRest.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoiltonMacedo/ApiRest-BancoDigital.git"
+  },
+  "author": "Joilton Macedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoiltonMacedo/ApiRest-BancoDigital/issues"
+  },
+  "homepage": "https://github.com/JoiltonMacedo/ApiRest-BancoDigital#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
